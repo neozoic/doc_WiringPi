@@ -288,3 +288,5 @@ I’m going to put all wiringPi specific updates and news here from now own, as 
 **Work in progress!**
 
 This site is  still in development, but comments in email are welcome about it.
+
+> Posted in General Update
