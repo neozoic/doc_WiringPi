@@ -28,7 +28,6 @@ sudo ./blink
 
 Â To see the output of this, you would need to connect a single LED to the GPIO connector of the Raspberry Pi as follows:
 
-
 ![blink1.jpg](../images/blink1.jpg)
 
 blink1and if all goes well, you should see the LED flashing once a second.
